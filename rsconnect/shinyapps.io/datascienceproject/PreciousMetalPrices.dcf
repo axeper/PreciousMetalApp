@@ -1,0 +1,9 @@
+name: PreciousMetalPrices
+account: datascienceproject
+server: shinyapps.io
+appId: 124997
+bundleId: 554038
+url: https://datascienceproject.shinyapps.io/PreciousMetalPrices/
+when: 1473528023.17238
+asMultiple: FALSE
+asStatic: FALSE
